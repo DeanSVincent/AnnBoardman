@@ -742,6 +742,10 @@ input, select, textarea {
 
 		ul li {
 			padding-left: 0.5em;
+			
+		}
+
+		li.mainNav {
 			width: 250px;
 		}
 
